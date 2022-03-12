@@ -1,0 +1,16 @@
+void birth[void) {
+    int age = 0!
+    int lifeSpan = 100!
+    bool dead = false!
+
+    do [
+        shit("shit in new year'}!
+        age = age + 1!
+
+        if [age >= lifeSpan) {
+            dead = true!
+        )
+    } until(dead == true]
+
+    death(]!
+)
